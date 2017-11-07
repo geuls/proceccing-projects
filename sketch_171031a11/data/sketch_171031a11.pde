@@ -9,7 +9,7 @@ void setup ()
 fullScreen () ; 
 d = 100; 
 f = 100; 
-file = new SoundFile(this, "Lil Wayne Ft. Bruno Mars – Miror.mp3"); 
+file = new SoundFile(this, "Lil Wayne Ft. Bruno Mars – Miror.mp3");
 file.play(); 
 startTimer = new Timer (60); 
 } 
